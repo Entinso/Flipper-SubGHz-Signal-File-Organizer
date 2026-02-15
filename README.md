@@ -34,7 +34,7 @@ The application organizes the files into directories based on their frequency an
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Vlad-F13/Flipper-SubGHz-Signal-File-Organizer.git
+   git clone https://github.com/Entinso/Flipper-SubGHz-Signal-File-Organizer.git
    cd Flipper-SubGHz-Signal-File-Organizer
 2. Run the application:
    ```bash
