@@ -1,11 +1,11 @@
-# Flipper SubGHz File Sorter GUI
+# Flipper SubGHz File Organizer GUI
 
 A desktop tool for organizing `.sub` files used with **Flipper Zero** by sorting them into folders based on **frequency** and **protocol**.
 
 ## Features
 
 - Filter `.sub` files by frequency and protocol
-- Automatically sort files into structured folders
+- Automatically organize files into structured folders
 - Pre-scan files for accurate progress tracking
 - Optional log generation
 - GUI built with Python and Tkinter
