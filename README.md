@@ -28,6 +28,11 @@ A desktop tool for organizing `.sub` files used with **Flipper Zero** by sorting
    ```bash
    python Flipper-SubGHz-Signal-File-Organizer.py
 
+## Thanks To
+- [Flipper](https://github.com/UberGuidoZ/Flipper) by UberGuidoZ
+
+For the database.
+
 ## Download
 
 You can [download](https://github.com/Entinso/Flipper-SubGHz-Signal-File-Organizer/releases/tag/v2.0) the latest executable version for Windows
